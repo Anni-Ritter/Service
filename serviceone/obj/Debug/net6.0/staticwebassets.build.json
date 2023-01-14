@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Rw8zMMw4VeFJcY+blSmiMs3FgbSyDaSg9vYdo0LGius=",
+  "Source": "serviceone",
+  "BasePath": "_content/serviceone",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
